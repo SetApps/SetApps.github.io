@@ -278,20 +278,3 @@ nav{
     font-size: 10px;
     font-weight: 500px;
 }
-.features__cart{
-    padding-top: 40px;
-}
-.features__icon{
-    float: left;
-}
-.features__sutitle h3{
-    font-size: 18px;
-    padding-left: 100px;
-    font-weight: 700;
-}
-.features__text p{
-    float: right;
-    padding-left: 100px;
-    font-size: 11px;
-    
-}
