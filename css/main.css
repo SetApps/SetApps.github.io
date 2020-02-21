@@ -178,10 +178,25 @@ nav{
     text-decoration: none;
     color: black;
 }
+.worked{
+    text-align: center;
+    background: rgb(249, 250, 254); 
+}
+.worked__title h1{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 30px;
+    padding-top: 40px;
+}
+.worked__slider{
+    padding-bottom: 40px;
+}
 .portfolio__title h1{
     text-align: center;
     font-weight: 700;
     font-size: 31px;
+    padding-top: 60px;
 }
 .portfolio__cart{
     padding-top: 20px;
@@ -249,4 +264,34 @@ nav{
 }
 .ranking img{
     padding-left: 20px;
+}
+.features__titles{
+    text-align: center;
+    padding-top: 75px;
+}
+.features__titles h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 31px;
+}
+..features__titles p{
+    font-size: 10px;
+    font-weight: 500px;
+}
+.features__cart{
+    padding-top: 40px;
+}
+.features__icon{
+    float: left;
+}
+.features__sutitle h3{
+    font-size: 18px;
+    padding-left: 100px;
+    font-weight: 700;
+}
+.features__text p{
+    float: right;
+    padding-left: 100px;
+    font-size: 11px;
+    
 }
