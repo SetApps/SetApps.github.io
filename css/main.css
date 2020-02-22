@@ -265,6 +265,9 @@ nav{
 .ranking img{
     padding-left: 20px;
 }
+.features{
+    padding-bottom: 70px;
+}
 .features__titles{
     text-align: center;
     padding-top: 75px;
@@ -274,7 +277,36 @@ nav{
     font-weight: 700;
     font-size: 31px;
 }
-..features__titles p{
+.features__titles p{
     font-size: 10px;
     font-weight: 500px;
+}
+.features__icon{
+    float: left;
+    padding-top: 40px;
+}
+.features__sutitle h3{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+.features__text p{
+    float: right;
+    padding-left: 100px;
+    font-size: 11px;
+    line-height: 21px;
+}
+.technologi{
+    text-align: center;
+    background: rgb(249, 250, 254); 
+    padding-bottom: 75px;
+}
+.technologi__title h1{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 30px;
+    padding-top: 40px;
 }
