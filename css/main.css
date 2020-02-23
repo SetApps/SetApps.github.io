@@ -310,3 +310,109 @@ nav{
     padding-bottom: 30px;
     padding-top: 40px;
 }
+.serve{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 75px;
+}
+.serve__title h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 31px;
+
+}
+.serve__title p{
+    font-weight: 700;
+    font-size: 10px;
+}
+.serve__cart{
+    background: rgb(249, 250, 254);
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-top: 15px;
+}
+.values{
+    background:rgb(249, 250, 254) ;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
+.values__title h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 31px;
+}
+.values__title p{
+    font-size: 10px;
+    font-weight: 700;
+}
+.values__cart{
+    padding-top: 60px;
+}
+.values__cart h1{
+    font-weight: 700;
+    padding-top: 50px;
+}
+.values__cart p{
+    padding-top: 10px;
+}
+.team{
+    text-align: center;
+    padding-bottom: 120px;
+}
+.team__title h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 31px;
+    font-weight: 700;
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+.team__cart img{
+    border-radius: 50%;
+    padding-bottom: 20px;
+}
+.team__cart h3{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.form{
+    background: rgb(35, 85, 218);
+    padding-top: 50px;
+}
+.form__active{
+    text-align: center;
+    background: #ffffff;
+    padding: 20px 20px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.social__items a{
+    color: black;
+    font-size: 20px; 
+}
+.social__items a:hover{
+    text-decoration: none;
+    color: black;
+}
