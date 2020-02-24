@@ -261,6 +261,7 @@ nav{
     font-size: 31px;
     font-weight: 700;
     text-align: center;
+    padding-top: 15px;
 }
 .ranking img{
     padding-left: 20px;
@@ -381,13 +382,44 @@ nav{
 .form{
     background: rgb(35, 85, 218);
     padding-top: 50px;
+    padding-bottom: 30px;
 }
 .form__active{
     text-align: center;
     background: #ffffff;
     padding: 20px 20px 20px;
 }
-
+.social{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.footer{
+    background: rgb(249, 250, 254);
+    padding-top: 80px;
+    font-size: 12px;
+}
+.footer__title{
+    text-align: center;
+}
+.footer h3{
+    padding-top: 20px;
+    text-align: center;
+}
+.footer p{
+    padding-top: 20px;
+}
+.footer__item li{
+    list-style: none;
+    padding-top: 10px;
+}
+.footer__item a{
+    color: black;
+    
+}
+.footer__item a:hover{
+    text-decoration: none;
+    color: black;
+}
 
 
 
