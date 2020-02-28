@@ -1,0 +1,30 @@
+@media (max-width: 1144px){
+    .header__menu{
+        display: none;
+    }
+    .button{
+        display: none;
+    }
+    .menu__button{
+        display: block;
+    }
+    .banner__img{
+        width: 330px;
+        height: 360px;
+        padding-top: 40px;
+    }
+    .banner__title{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 26px;
+        line-height: 1.5em;
+        font-weight: 500;
+        text-align: center;
+    }
+    
+    
+}
+@media (max-width: 1350px){
+    .portfolio__cart img{
+        width: 520px;
+    }
+}
